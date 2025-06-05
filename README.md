@@ -4,19 +4,18 @@
 This project showcases an interactive Tableau dashboard designed to visualize and analyze Netflix movie and TV show data. By bringing together a rich dataset, this dashboard provides insightful analytics on content trends, geographical distribution, and popular genres within the Netflix catalog. It's a clear demonstration of how data visualization can transform raw data into clear, actionable intelligence.
 
 ## Tableau Dashboard & Key Insights
-The core of this project is a comprehensive Tableau dashboard, built for intuitive exploration of Netflix content. Key visualizations likely include:
-**Content Type Breakdown:** A clear view of the ratio between movies and TV shows.
-**Release Trends Over Time:** How Netflix's content library has grown annually.
-**Genre Popularity:** Identifying the most prevalent and emerging genres.
-**Geographic Content Origin:** A map or chart showing where content is produced globally.
+The core of this project is a comprehensive Tableau dashboard, built for intuitive exploration of Netflix content. Key visualizations likely include:**Content Type Breakdown:** A clear view of the ratio between movies and TV shows.
+* **Release Trends Over Time:** How Netflix's content library has grown annually.
+* **Genre Popularity:** Identifying the most prevalent and emerging genres.
+* **Geographic Content Origin:** A map or chart showing where content is produced globally.
 This dashboard empowers users to quickly grasp trends, pinpoint popular content, and understand the diverse nature of Netflix's offerings.
 
 ## Skills Demonstrated
-Data Visualization: Expertise in designing and building compelling visualizations with Tableau.
-Tableau Development: Creating interactive dashboards, implementing filters, and customizing tooltips.
-Data Analysis: Extracting meaningful insights from large datasets.
-Data Preprocessing (Implicit): Understanding of data preparation necessary for effective visualization.
-Storytelling with Data: Presenting complex information in an understandable and engaging format.
+* **Data Visualization:** Expertise in designing and building compelling visualizations with Tableau.
+* **Tableau Development:** Creating interactive dashboards, implementing filters, and customizing tooltips.
+* **Data Analysis:** Extracting meaningful insights from large datasets.
+* **Data Preprocessing (Implicit):** Understanding of data preparation necessary for effective visualization.
+* **Storytelling with Data:** Presenting complex information in an understandable and engaging format.
 
 ## Setup & Usage
 To view and interact with this dashboard, you'll need Tableau Desktop.
